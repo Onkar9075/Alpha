@@ -63,6 +63,14 @@
             <version>1.9.2</version>
             <type>jar</type>
         </dependency>
+        <distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>a0tdxnehszxxq-artifactory-primary-0-snapshots</name>
+        <url>https://trialyuysex.jfrog.io/artifactory/spring-libs-snapshot</url>
+    </snapshotRepository>
+</distributionManagement>
+        
     </dependencies>
 
     <build>
